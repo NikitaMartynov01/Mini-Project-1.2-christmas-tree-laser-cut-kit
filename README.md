@@ -7,7 +7,7 @@
 <h2 align="center">
 
 <p align="center">
-  <a href="НГ%20игрушка.dxf">
+  <a href="file/НГ%20игрушка.dxf">
     <img src="https://img.shields.io/badge/Download-DXF-green?style=for-the-badge">
   </a>
 </p>
