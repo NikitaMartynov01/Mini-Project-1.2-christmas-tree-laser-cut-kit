@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="НГ%20игрушка.dxf">
-    <img src="https://img.shields.io/badge/Download-CDR-green?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Download-DXF-green?style=for-the-badge">
   </a>
 </p>
 
